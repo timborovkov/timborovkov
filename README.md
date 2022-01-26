@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, my name is Tim 👋
+
+- 🔭 I’m currently working as a CTO of Tecci and co-founder of UpCharge
+- 🌱 I’m currently learning Solidity and blockchain
+- 👯 I’m looking to collaborate on cool projects
+- 📫 How to reach me: tim@tecci.fi
+- ⚡ Fun fact: started coding when I was 12, but everyday I learn something new
 
 <!--
 **timborovkov/timborovkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
