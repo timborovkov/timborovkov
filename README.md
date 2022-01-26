@@ -4,6 +4,7 @@
 - 🔭 I’m currently working as a CTO of Tecci and co-founder of UpCharge
 - 🌱 I’m currently learning Solidity and blockchain
 - 👯 I’m looking to collaborate on cool projects
+- 📚 In my free time studying for my BBA @ Haaga-Helia University of applied sciences
 - 📫 How to reach me: tim@tecci.fi
 - ⚡ Fun fact: started coding when I was 12, but everyday I learn something new
 
