@@ -1,5 +1,6 @@
 ### Hi there, my name is Tim 👋
 
+- 🇫🇮 Location: Helsinki, Finland
 - 🔭 I’m currently working as a CTO of Tecci and co-founder of UpCharge
 - 🌱 I’m currently learning Solidity and blockchain
 - 👯 I’m looking to collaborate on cool projects
