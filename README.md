@@ -1,8 +1,8 @@
 ### Hi there, my name is Tim 👋
 
 - 🇫🇮 Location: Helsinki, Finland
-- 🔭 I’m currently working as a CTO for @Tecci and I am also a co-founder at UpCharge
-- 📫 How to reach me: tim@tecci.fi
+- 🔭 Co-Founder & CTO @Tecci | Co-founder & COO @UpCharge-fi
+- 📫 How to reach me: tim@tecci.fi or tim@upcharge.eu
 - ⚡ Fun fact: started coding when I was 12, but everyday I learn something new
 
 <!--
