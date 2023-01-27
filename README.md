@@ -5,6 +5,8 @@
 - 📫 How to reach me: tim@tecci.fi or tim@upcharge.eu
 - ⚡ Fun fact: started coding when I was 12, but everyday I learn something new
 
+Ps. most of my repos are kept private
+
 <!--
 **timborovkov/timborovkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
